@@ -10,4 +10,4 @@ Greetings. I'm Mingrui (go by Myron) and I'm a bachelor graduate from the Univer
 
 I'm always eager to learn new technology (sometimes to my detriment; after being frustrated by how obscure one Java GUI framework is, I decided to move on... and learn another (also obscure) Java GUI framework) and a fast learner. Currently I'm learning ReactJS and found it quite fascinating and slightly magical. It's nice to google your technology and get more than 5 responses.
 
-Currently I'm working on a ReactJS web application; it will be uploaded to my GitHub repository once finished.
+Currently I'm working on a ReactJS web application; it will be uploaded here once finished.
