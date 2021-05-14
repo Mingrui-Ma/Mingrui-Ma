@@ -11,3 +11,5 @@ Greetings. I'm Mingrui (go by Myron) and I'm a bachelor graduate from the Univer
 I'm always eager to learn new technology (sometimes to my detriment; after being frustrated by how obscure one Java GUI framework is, I decided to move on... and learn another (also obscure) Java GUI framework) and a fast learner. Currently I'm learning ReactJS and found it quite fascinating and slightly magical. It's nice to google your technology and get more than 5 responses. 
 
 My-Quiz-App, my ReactJS application, is completed and hosted on Netlify! It's my best work yet, if I do say so myself (and for what that's worth).
+
+ReactJS down (mostly) and I'm moving on to learn React Native. Should be a breeze since it's based on React (famous last words).
